@@ -5,3 +5,7 @@ Chương trình có xử lý được với đầu vào là số 0 hoặc 1 khô
 2. Vì sao việc đo Availability đối với phần mềm lại khó khăn hơn so với phần cứng?
 3. Trong trường hợp nào thì hệ thống có thể đạt availability cao nhưng vẫn khiến người dùng không hài lòng?
 
+@Nho Huy
+1.Những phương pháp nào có thể dùng để thay thế MBTF để đo lường tính sẵn sàng của phần mềm?
+2.Trong trường hợp xảy ra "fail-operational", làm sao để xác định khi nào nên tiếp tục chạy với hiệu năng suy giảm và khi nào nên tắt hoàn toàn?
+3.Nếu nhiều lỗi phát sinh và đều đưa ra các biểu hiện giống nhau nhưng lại ko thể xử lý 1 lần được,thì chúng ta sẽ nên ưu tiên sửa những lỗi nào trước?
